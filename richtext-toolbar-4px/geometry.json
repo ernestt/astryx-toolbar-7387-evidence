@@ -1,0 +1,453 @@
+{
+  "viewport": {
+    "width": 1440,
+    "height": 1000,
+    "deviceScaleFactor": 1
+  },
+  "globals": {
+    "theme": "neutral",
+    "colorMode": "light",
+    "direction": "ltr"
+  },
+  "before": {
+    "with-toolbar": [
+      {
+        "editor": {
+          "top": 40,
+          "bottom": 167,
+          "left": 16,
+          "right": 1424,
+          "width": 1408,
+          "height": 127
+        },
+        "toolbar": {
+          "top": 49,
+          "bottom": 77,
+          "left": 29,
+          "right": 1411,
+          "width": 1382,
+          "height": 28
+        },
+        "section": {
+          "top": 41,
+          "bottom": 85,
+          "left": 17,
+          "right": 1423,
+          "width": 1406,
+          "height": 44
+        },
+        "wrapper": {
+          "top": 41,
+          "bottom": 85,
+          "left": 17,
+          "right": 1423,
+          "width": 1406,
+          "height": 44
+        },
+        "actionRow": {
+          "top": 49,
+          "bottom": 77,
+          "left": 25,
+          "right": 1415,
+          "width": 1390,
+          "height": 28
+        },
+        "body": {
+          "top": 85,
+          "bottom": 166,
+          "left": 17,
+          "right": 1423,
+          "width": 1406,
+          "height": 81
+        },
+        "sectionStyle": {
+          "paddingInlineStart": "12px",
+          "paddingInlineEnd": "12px",
+          "paddingBlockStart": "8px",
+          "paddingBlockEnd": "8px",
+          "marginBlockStart": "0px",
+          "marginBlockEnd": "0px"
+        },
+        "wrapperStyle": {
+          "paddingInlineStart": "0px",
+          "paddingInlineEnd": "0px",
+          "paddingBlockStart": "0px",
+          "paddingBlockEnd": "0px",
+          "marginBlockStart": "0px",
+          "marginBlockEnd": "0px"
+        },
+        "visualGaps": {
+          "editorTopToToolbar": 9,
+          "toolbarToBody": 8
+        }
+      }
+    ],
+    "responsive": [
+      {
+        "editor": {
+          "top": 60,
+          "bottom": 187,
+          "left": 16,
+          "right": 436,
+          "width": 420,
+          "height": 127
+        },
+        "toolbar": {
+          "top": 69,
+          "bottom": 97,
+          "left": 29,
+          "right": 423,
+          "width": 394,
+          "height": 28
+        },
+        "section": {
+          "top": 61,
+          "bottom": 105,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 44
+        },
+        "wrapper": {
+          "top": 61,
+          "bottom": 105,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 44
+        },
+        "actionRow": {
+          "top": 69,
+          "bottom": 97,
+          "left": 25,
+          "right": 427,
+          "width": 402,
+          "height": 28
+        },
+        "body": {
+          "top": 105,
+          "bottom": 186,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 81
+        },
+        "sectionStyle": {
+          "paddingInlineStart": "12px",
+          "paddingInlineEnd": "12px",
+          "paddingBlockStart": "8px",
+          "paddingBlockEnd": "8px",
+          "marginBlockStart": "0px",
+          "marginBlockEnd": "0px"
+        },
+        "wrapperStyle": {
+          "paddingInlineStart": "0px",
+          "paddingInlineEnd": "0px",
+          "paddingBlockStart": "0px",
+          "paddingBlockEnd": "0px",
+          "marginBlockStart": "0px",
+          "marginBlockEnd": "0px"
+        },
+        "visualGaps": {
+          "editorTopToToolbar": 9,
+          "toolbarToBody": 8
+        }
+      }
+    ],
+    "stress": [
+      {
+        "editor": {
+          "top": 124,
+          "bottom": 251,
+          "left": 16,
+          "right": 436,
+          "width": 420,
+          "height": 127
+        },
+        "toolbar": {
+          "top": 133,
+          "bottom": 161,
+          "left": 29,
+          "right": 423,
+          "width": 394,
+          "height": 28
+        },
+        "section": {
+          "top": 125,
+          "bottom": 169,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 44
+        },
+        "wrapper": {
+          "top": 125,
+          "bottom": 169,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 44
+        },
+        "actionRow": {
+          "top": 133,
+          "bottom": 161,
+          "left": 25,
+          "right": 427,
+          "width": 402,
+          "height": 28
+        },
+        "body": {
+          "top": 169,
+          "bottom": 250,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 81
+        },
+        "sectionStyle": {
+          "paddingInlineStart": "12px",
+          "paddingInlineEnd": "12px",
+          "paddingBlockStart": "8px",
+          "paddingBlockEnd": "8px",
+          "marginBlockStart": "0px",
+          "marginBlockEnd": "0px"
+        },
+        "wrapperStyle": {
+          "paddingInlineStart": "0px",
+          "paddingInlineEnd": "0px",
+          "paddingBlockStart": "0px",
+          "paddingBlockEnd": "0px",
+          "marginBlockStart": "0px",
+          "marginBlockEnd": "0px"
+        },
+        "visualGaps": {
+          "editorTopToToolbar": 9,
+          "toolbarToBody": 8
+        }
+      }
+    ]
+  },
+  "after": {
+    "with-toolbar": [
+      {
+        "editor": {
+          "top": 40,
+          "bottom": 159,
+          "left": 16,
+          "right": 1424,
+          "width": 1408,
+          "height": 119
+        },
+        "toolbar": {
+          "top": 45,
+          "bottom": 73,
+          "left": 21,
+          "right": 1419,
+          "width": 1398,
+          "height": 28
+        },
+        "section": {
+          "top": 37,
+          "bottom": 81,
+          "left": 17,
+          "right": 1423,
+          "width": 1406,
+          "height": 44
+        },
+        "wrapper": {
+          "top": 37,
+          "bottom": 81,
+          "left": 17,
+          "right": 1423,
+          "width": 1406,
+          "height": 44
+        },
+        "actionRow": {
+          "top": 45,
+          "bottom": 73,
+          "left": 21,
+          "right": 1419,
+          "width": 1398,
+          "height": 28
+        },
+        "body": {
+          "top": 77,
+          "bottom": 158,
+          "left": 17,
+          "right": 1423,
+          "width": 1406,
+          "height": 81
+        },
+        "sectionStyle": {
+          "paddingInlineStart": "4px",
+          "paddingInlineEnd": "4px",
+          "paddingBlockStart": "8px",
+          "paddingBlockEnd": "8px",
+          "marginBlockStart": "0px",
+          "marginBlockEnd": "0px"
+        },
+        "wrapperStyle": {
+          "paddingInlineStart": "0px",
+          "paddingInlineEnd": "0px",
+          "paddingBlockStart": "0px",
+          "paddingBlockEnd": "0px",
+          "marginBlockStart": "-4px",
+          "marginBlockEnd": "-4px"
+        },
+        "visualGaps": {
+          "editorTopToToolbar": 5,
+          "toolbarToBody": 4
+        }
+      }
+    ],
+    "responsive": [
+      {
+        "editor": {
+          "top": 60,
+          "bottom": 179,
+          "left": 16,
+          "right": 436,
+          "width": 420,
+          "height": 119
+        },
+        "toolbar": {
+          "top": 65,
+          "bottom": 93,
+          "left": 21,
+          "right": 431,
+          "width": 410,
+          "height": 28
+        },
+        "section": {
+          "top": 57,
+          "bottom": 101,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 44
+        },
+        "wrapper": {
+          "top": 57,
+          "bottom": 101,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 44
+        },
+        "actionRow": {
+          "top": 65,
+          "bottom": 93,
+          "left": 21,
+          "right": 431,
+          "width": 410,
+          "height": 28
+        },
+        "body": {
+          "top": 97,
+          "bottom": 178,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 81
+        },
+        "sectionStyle": {
+          "paddingInlineStart": "4px",
+          "paddingInlineEnd": "4px",
+          "paddingBlockStart": "8px",
+          "paddingBlockEnd": "8px",
+          "marginBlockStart": "0px",
+          "marginBlockEnd": "0px"
+        },
+        "wrapperStyle": {
+          "paddingInlineStart": "0px",
+          "paddingInlineEnd": "0px",
+          "paddingBlockStart": "0px",
+          "paddingBlockEnd": "0px",
+          "marginBlockStart": "-4px",
+          "marginBlockEnd": "-4px"
+        },
+        "visualGaps": {
+          "editorTopToToolbar": 5,
+          "toolbarToBody": 4
+        }
+      }
+    ],
+    "stress": [
+      {
+        "editor": {
+          "top": 124,
+          "bottom": 243,
+          "left": 16,
+          "right": 436,
+          "width": 420,
+          "height": 119
+        },
+        "toolbar": {
+          "top": 129,
+          "bottom": 157,
+          "left": 21,
+          "right": 431,
+          "width": 410,
+          "height": 28
+        },
+        "section": {
+          "top": 121,
+          "bottom": 165,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 44
+        },
+        "wrapper": {
+          "top": 121,
+          "bottom": 165,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 44
+        },
+        "actionRow": {
+          "top": 129,
+          "bottom": 157,
+          "left": 21,
+          "right": 431,
+          "width": 410,
+          "height": 28
+        },
+        "body": {
+          "top": 161,
+          "bottom": 242,
+          "left": 17,
+          "right": 435,
+          "width": 418,
+          "height": 81
+        },
+        "sectionStyle": {
+          "paddingInlineStart": "4px",
+          "paddingInlineEnd": "4px",
+          "paddingBlockStart": "8px",
+          "paddingBlockEnd": "8px",
+          "marginBlockStart": "0px",
+          "marginBlockEnd": "0px"
+        },
+        "wrapperStyle": {
+          "paddingInlineStart": "0px",
+          "paddingInlineEnd": "0px",
+          "paddingBlockStart": "0px",
+          "paddingBlockEnd": "0px",
+          "marginBlockStart": "-4px",
+          "marginBlockEnd": "-4px"
+        },
+        "visualGaps": {
+          "editorTopToToolbar": 5,
+          "toolbarToBody": 4
+        }
+      }
+    ]
+  },
+  "genericCoreCompactUnchanged": true,
+  "genericCoreCompactHashes": {
+    "before": "bb22e6ad0bf768adad737714d4770e767491fb098b58ddfd6b249c9bbba3dfa6",
+    "after": "bb22e6ad0bf768adad737714d4770e767491fb098b58ddfd6b249c9bbba3dfa6"
+  }
+}
