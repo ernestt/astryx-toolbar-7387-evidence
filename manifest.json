@@ -1,0 +1,643 @@
+{
+  "capturedAt": "2026-10-12T17:57:57.134Z",
+  "beforeBase": "http://127.0.0.1:6007",
+  "afterBase": "http://127.0.0.1:6006",
+  "stories": [
+    {
+      "index": 1,
+      "id": "core-toolbar--default",
+      "title": "Core/Toolbar",
+      "name": "Default",
+      "before": "01-core-toolbar-default-before.png",
+      "after": "01-core-toolbar-default-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1387,
+        "height": 63
+      },
+      "afterTrimmedDimensions": {
+        "width": 1387,
+        "height": 63
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 2,
+      "id": "core-toolbar--three-slot",
+      "title": "Core/Toolbar",
+      "name": "Three Slot",
+      "before": "02-core-toolbar-three-slot-before.png",
+      "after": "02-core-toolbar-three-slot-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1395,
+        "height": 80
+      },
+      "afterTrimmedDimensions": {
+        "width": 1399,
+        "height": 80
+      },
+      "absoluteDifferentPixels": 2
+    },
+    {
+      "index": 3,
+      "id": "core-toolbar--start-only",
+      "title": "Core/Toolbar",
+      "name": "Start Only",
+      "before": "03-core-toolbar-start-only-before.png",
+      "after": "03-core-toolbar-start-only-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 259,
+        "height": 68
+      },
+      "afterTrimmedDimensions": {
+        "width": 259,
+        "height": 68
+      },
+      "absoluteDifferentPixels": 3
+    },
+    {
+      "index": 4,
+      "id": "core-toolbar--end-only",
+      "title": "Core/Toolbar",
+      "name": "End Only",
+      "before": "04-core-toolbar-end-only-before.png",
+      "after": "04-core-toolbar-end-only-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 164,
+        "height": 80
+      },
+      "afterTrimmedDimensions": {
+        "width": 164,
+        "height": 80
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 5,
+      "id": "core-toolbar--compact",
+      "title": "Core/Toolbar",
+      "name": "Compact",
+      "before": "05-core-toolbar-compact-before.png",
+      "after": "05-core-toolbar-compact-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1396,
+        "height": 62
+      },
+      "afterTrimmedDimensions": {
+        "width": 1396,
+        "height": 62
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 6,
+      "id": "core-toolbar--wash-variant",
+      "title": "Core/Toolbar",
+      "name": "Wash Variant",
+      "before": "06-core-toolbar-wash-variant-before.png",
+      "after": "06-core-toolbar-wash-variant-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 96
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 96
+      },
+      "absoluteDifferentPixels": 2
+    },
+    {
+      "index": 7,
+      "id": "core-toolbar--inside-card",
+      "title": "Core/Toolbar",
+      "name": "Composition: Card Header",
+      "before": "07-core-toolbar-inside-card-before.png",
+      "after": "07-core-toolbar-inside-card-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 648,
+        "height": 133
+      },
+      "afterTrimmedDimensions": {
+        "width": 648,
+        "height": 133
+      },
+      "absoluteDifferentPixels": 1
+    },
+    {
+      "index": 8,
+      "id": "core-toolbar--table-toolbar",
+      "title": "Core/Toolbar",
+      "name": "Composition: Table Toolbar",
+      "before": "08-core-toolbar-table-toolbar-before.png",
+      "after": "08-core-toolbar-table-toolbar-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 748,
+        "height": 222
+      },
+      "afterTrimmedDimensions": {
+        "width": 748,
+        "height": 222
+      },
+      "absoluteDifferentPixels": 5
+    },
+    {
+      "index": 9,
+      "id": "core-toolbar--page-header",
+      "title": "Core/Toolbar",
+      "name": "Composition: Page Header",
+      "before": "09-core-toolbar-page-header-before.png",
+      "after": "09-core-toolbar-page-header-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 145
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 145
+      },
+      "absoluteDifferentPixels": 3
+    },
+    {
+      "index": 10,
+      "id": "core-toolbar--bulk-actions",
+      "title": "Core/Toolbar",
+      "name": "Composition: Bulk Selection",
+      "before": "10-core-toolbar-bulk-actions-before.png",
+      "after": "10-core-toolbar-bulk-actions-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 84
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 84
+      },
+      "absoluteDifferentPixels": 2
+    },
+    {
+      "index": 11,
+      "id": "core-toolbar--stacked-toolbars",
+      "title": "Core/Toolbar",
+      "name": "Composition: Stacked Toolbars",
+      "before": "11-core-toolbar-stacked-toolbars-before.png",
+      "after": "11-core-toolbar-stacked-toolbars-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 748,
+        "height": 169
+      },
+      "afterTrimmedDimensions": {
+        "width": 748,
+        "height": 169
+      },
+      "absoluteDifferentPixels": 1
+    },
+    {
+      "index": 12,
+      "id": "core-toolbar--inside-layout",
+      "title": "Core/Toolbar",
+      "name": "Composition: Inside Layout",
+      "before": "12-core-toolbar-inside-layout-before.png",
+      "after": "12-core-toolbar-inside-layout-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 348
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 348
+      },
+      "absoluteDifferentPixels": 5
+    },
+    {
+      "index": 13,
+      "id": "core-toolbar--with-tab-navigation",
+      "title": "Core/Toolbar",
+      "name": "Composition: Tab Navigation",
+      "before": "13-core-toolbar-with-tab-navigation-before.png",
+      "after": "13-core-toolbar-with-tab-navigation-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 379
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 379
+      },
+      "absoluteDifferentPixels": 5
+    },
+    {
+      "index": 14,
+      "id": "core-toolbar--with-center-tab-navigation",
+      "title": "Core/Toolbar",
+      "name": "Composition: Center Tab Navigation",
+      "before": "14-core-toolbar-with-center-tab-navigation-before.png",
+      "after": "14-core-toolbar-with-center-tab-navigation-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 145
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 145
+      },
+      "absoluteDifferentPixels": 1
+    },
+    {
+      "index": 15,
+      "id": "core-toolbaredgecompensation--ghost-buttons-both-edges",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Ghost buttons: start + end",
+      "before": "15-core-toolbaredgecompensation-ghost-buttons-both-edges-before.png",
+      "after": "15-core-toolbaredgecompensation-ghost-buttons-both-edges-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 648,
+        "height": 714
+      },
+      "afterTrimmedDimensions": {
+        "width": 648,
+        "height": 714
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 16,
+      "id": "core-toolbaredgecompensation--solid-buttons-both-edges",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Solid buttons: start + end",
+      "before": "16-core-toolbaredgecompensation-solid-buttons-both-edges-before.png",
+      "after": "16-core-toolbaredgecompensation-solid-buttons-both-edges-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 648,
+        "height": 714
+      },
+      "afterTrimmedDimensions": {
+        "width": 648,
+        "height": 714
+      },
+      "absoluteDifferentPixels": 8
+    },
+    {
+      "index": 17,
+      "id": "core-toolbaredgecompensation--ghost-start-solid-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Mixed: ghost start, solid end",
+      "before": "17-core-toolbaredgecompensation-ghost-start-solid-end-before.png",
+      "after": "17-core-toolbaredgecompensation-ghost-start-solid-end-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 648,
+        "height": 714
+      },
+      "afterTrimmedDimensions": {
+        "width": 648,
+        "height": 714
+      },
+      "absoluteDifferentPixels": 2
+    },
+    {
+      "index": 18,
+      "id": "core-toolbaredgecompensation--solid-start-ghost-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Mixed: solid start, ghost end",
+      "before": "18-core-toolbaredgecompensation-solid-start-ghost-end-before.png",
+      "after": "18-core-toolbaredgecompensation-solid-start-ghost-end-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 648,
+        "height": 714
+      },
+      "afterTrimmedDimensions": {
+        "width": 648,
+        "height": 714
+      },
+      "absoluteDifferentPixels": 5
+    },
+    {
+      "index": 19,
+      "id": "core-toolbaredgecompensation--heading-start-ghost-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Heading start + ghost end",
+      "before": "19-core-toolbaredgecompensation-heading-start-ghost-end-before.png",
+      "after": "19-core-toolbaredgecompensation-heading-start-ghost-end-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 648,
+        "height": 714
+      },
+      "afterTrimmedDimensions": {
+        "width": 648,
+        "height": 714
+      },
+      "absoluteDifferentPixels": 7
+    },
+    {
+      "index": 20,
+      "id": "core-toolbaredgecompensation--text-start-ghost-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Text start + ghost end",
+      "before": "20-core-toolbaredgecompensation-text-start-ghost-end-before.png",
+      "after": "20-core-toolbaredgecompensation-text-start-ghost-end-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 648,
+        "height": 237
+      },
+      "afterTrimmedDimensions": {
+        "width": 648,
+        "height": 237
+      },
+      "absoluteDifferentPixels": 3
+    },
+    {
+      "index": 21,
+      "id": "core-toolbaredgecompensation--heading-start-solid-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Heading start + solid end",
+      "before": "21-core-toolbaredgecompensation-heading-start-solid-end-before.png",
+      "after": "21-core-toolbaredgecompensation-heading-start-solid-end-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 648,
+        "height": 237
+      },
+      "afterTrimmedDimensions": {
+        "width": 648,
+        "height": 237
+      },
+      "absoluteDifferentPixels": 5
+    },
+    {
+      "index": 22,
+      "id": "core-toolbaredgecompensation--layout-no-content-width",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: no contentWidth, ghost buttons",
+      "before": "22-core-toolbaredgecompensation-layout-no-content-width-before.png",
+      "after": "22-core-toolbaredgecompensation-layout-no-content-width-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 23,
+      "id": "core-toolbaredgecompensation--layout-no-content-width-solid",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: no contentWidth, solid buttons",
+      "before": "23-core-toolbaredgecompensation-layout-no-content-width-solid-before.png",
+      "after": "23-core-toolbaredgecompensation-layout-no-content-width-solid-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "absoluteDifferentPixels": 4
+    },
+    {
+      "index": 24,
+      "id": "core-toolbaredgecompensation--layout-with-content-width",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=640, ghost buttons",
+      "before": "24-core-toolbaredgecompensation-layout-with-content-width-before.png",
+      "after": "24-core-toolbaredgecompensation-layout-with-content-width-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 25,
+      "id": "core-toolbaredgecompensation--layout-with-content-width-solid",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=640, solid buttons",
+      "before": "25-core-toolbaredgecompensation-layout-with-content-width-solid-before.png",
+      "after": "25-core-toolbaredgecompensation-layout-with-content-width-solid-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "absoluteDifferentPixels": 3
+    },
+    {
+      "index": 26,
+      "id": "core-toolbaredgecompensation--layout-with-content-width-mixed",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=640, mixed",
+      "before": "26-core-toolbaredgecompensation-layout-with-content-width-mixed-before.png",
+      "after": "26-core-toolbaredgecompensation-layout-with-content-width-mixed-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "absoluteDifferentPixels": 2
+    },
+    {
+      "index": 27,
+      "id": "core-toolbaredgecompensation--layout-content-width-960",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=960, ghost buttons",
+      "before": "27-core-toolbaredgecompensation-layout-content-width-960-before.png",
+      "after": "27-core-toolbaredgecompensation-layout-content-width-960-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 28,
+      "id": "core-toolbaredgecompensation--layout-with-padding",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: padding=4, ghost buttons",
+      "before": "28-core-toolbaredgecompensation-layout-with-padding-before.png",
+      "after": "28-core-toolbaredgecompensation-layout-with-padding-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 29,
+      "id": "core-toolbaredgecompensation--layout-with-padding-and-content-width",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: padding=4 + contentWidth=640",
+      "before": "29-core-toolbaredgecompensation-layout-with-padding-and-content-width-before.png",
+      "after": "29-core-toolbaredgecompensation-layout-with-padding-and-content-width-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 30,
+      "id": "core-toolbaredgecompensation--layout-header-default-padding",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: header default padding + toolbar",
+      "before": "30-core-toolbaredgecompensation-layout-header-default-padding-before.png",
+      "after": "30-core-toolbaredgecompensation-layout-header-default-padding-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 448
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 31,
+      "id": "core-toolbaredgecompensation--side-by-side-comparison",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Comparison: ghost vs solid alignment",
+      "before": "31-core-toolbaredgecompensation-side-by-side-comparison-before.png",
+      "after": "31-core-toolbaredgecompensation-side-by-side-comparison-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 1424,
+        "height": 260
+      },
+      "afterTrimmedDimensions": {
+        "width": 1424,
+        "height": 260
+      },
+      "absoluteDifferentPixels": 1
+    },
+    {
+      "index": 32,
+      "id": "core-toolbaredgecompensation--three-slot-ghost-edges",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Three-slot: ghost edges + center heading",
+      "before": "32-core-toolbaredgecompensation-three-slot-ghost-edges-before.png",
+      "after": "32-core-toolbaredgecompensation-three-slot-ghost-edges-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 748,
+        "height": 594
+      },
+      "afterTrimmedDimensions": {
+        "width": 748,
+        "height": 594
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 33,
+      "id": "core-toolbaredgecompensation--three-slot-mixed",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Three-slot: ghost start, solid end",
+      "before": "33-core-toolbaredgecompensation-three-slot-mixed-before.png",
+      "after": "33-core-toolbaredgecompensation-three-slot-mixed-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 748,
+        "height": 197
+      },
+      "afterTrimmedDimensions": {
+        "width": 748,
+        "height": 197
+      },
+      "absoluteDifferentPixels": 2
+    },
+    {
+      "index": 34,
+      "id": "core-toolbaredgecompensation--stacked-variants",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Stress: stacked toolbar variants",
+      "before": "34-core-toolbaredgecompensation-stacked-variants-before.png",
+      "after": "34-core-toolbaredgecompensation-stacked-variants-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 748,
+        "height": 268
+      },
+      "afterTrimmedDimensions": {
+        "width": 748,
+        "height": 268
+      },
+      "absoluteDifferentPixels": 6
+    },
+    {
+      "index": 35,
+      "id": "core-toolbaredgecompensation--card-layout-content-width-toolbar",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Card > Layout(contentWidth) > Toolbar header",
+      "before": "35-core-toolbaredgecompensation-card-layout-content-width-toolbar-before.png",
+      "after": "35-core-toolbaredgecompensation-card-layout-content-width-toolbar-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 948,
+        "height": 862
+      },
+      "afterTrimmedDimensions": {
+        "width": 948,
+        "height": 862
+      },
+      "absoluteDifferentPixels": 4
+    },
+    {
+      "index": 36,
+      "id": "core-toolbaredgecompensation--card-small-padding-layout-toolbar",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Card(12px) > Layout > Toolbar + body",
+      "before": "36-core-toolbaredgecompensation-card-small-padding-layout-toolbar-before.png",
+      "after": "36-core-toolbaredgecompensation-card-small-padding-layout-toolbar-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 748,
+        "height": 225
+      },
+      "afterTrimmedDimensions": {
+        "width": 748,
+        "height": 225
+      },
+      "absoluteDifferentPixels": 0
+    },
+    {
+      "index": 37,
+      "id": "core-toolbaredgecompensation--with-tabs",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Tabs in toolbar (all sizes)",
+      "before": "37-core-toolbaredgecompensation-with-tabs-before.png",
+      "after": "37-core-toolbaredgecompensation-with-tabs-after.png",
+      "beforeTrimmedDimensions": {
+        "width": 748,
+        "height": 594
+      },
+      "afterTrimmedDimensions": {
+        "width": 748,
+        "height": 594
+      },
+      "absoluteDifferentPixels": 0
+    }
+  ],
+  "evidenceFormat": "PNG",
+  "browser": "Chrome 155 via Playwright",
+  "captureViewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "postProcessing": "Outer background-only canvas trimmed with 1% tolerance; 24px white evidence margin added. Rendered story content is unchanged."
+}

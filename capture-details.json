@@ -1,0 +1,3868 @@
+{
+  "before": [
+    {
+      "index": 1,
+      "id": "core-toolbar--default",
+      "title": "Core/Toolbar",
+      "name": "Default",
+      "state": "before",
+      "file": "01-core-toolbar-default-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--default&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 (File not found)"
+      ],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 112
+        },
+        "root": {
+          "width": 1408,
+          "height": 80
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Actions",
+            "rect": {
+              "x": 44,
+              "y": 40,
+              "width": 1352,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "id": "core-toolbar--three-slot",
+      "title": "Core/Toolbar",
+      "name": "Three Slot",
+      "state": "before",
+      "file": "02-core-toolbar-three-slot-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--three-slot&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 112
+        },
+        "root": {
+          "width": 1408,
+          "height": 80
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Document toolbar",
+            "rect": {
+              "x": 44,
+              "y": 40,
+              "width": 1352,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 3,
+      "id": "core-toolbar--start-only",
+      "title": "Core/Toolbar",
+      "name": "Start Only",
+      "state": "before",
+      "file": "03-core-toolbar-start-only-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--start-only&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 100
+        },
+        "root": {
+          "width": 1408,
+          "height": 68
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Bulk actions",
+            "rect": {
+              "x": 44,
+              "y": 36,
+              "width": 1352,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 4,
+      "id": "core-toolbar--end-only",
+      "title": "Core/Toolbar",
+      "name": "End Only",
+      "state": "before",
+      "file": "04-core-toolbar-end-only-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--end-only&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 112
+        },
+        "root": {
+          "width": 1408,
+          "height": 80
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Page actions",
+            "rect": {
+              "x": 44,
+              "y": 40,
+              "width": 1352,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 5,
+      "id": "core-toolbar--compact",
+      "title": "Core/Toolbar",
+      "name": "Compact",
+      "state": "before",
+      "file": "05-core-toolbar-compact-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--compact&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 100
+        },
+        "root": {
+          "width": 1408,
+          "height": 68
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Compact toolbar",
+            "rect": {
+              "x": 44,
+              "y": 36,
+              "width": 1352,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 6,
+      "id": "core-toolbar--wash-variant",
+      "title": "Core/Toolbar",
+      "name": "Wash Variant",
+      "state": "before",
+      "file": "06-core-toolbar-wash-variant-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--wash-variant&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 112
+        },
+        "root": {
+          "width": 1408,
+          "height": 80
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Highlighted toolbar",
+            "rect": {
+              "x": 44,
+              "y": 40,
+              "width": 1352,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 7,
+      "id": "core-toolbar--inside-card",
+      "title": "Core/Toolbar",
+      "name": "Composition: Card Header",
+      "state": "before",
+      "file": "07-core-toolbar-inside-card-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--inside-card&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 149
+        },
+        "root": {
+          "width": 1408,
+          "height": 117
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "User list actions",
+            "rect": {
+              "x": 44,
+              "y": 36,
+              "width": 576,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 8,
+      "id": "core-toolbar--table-toolbar",
+      "title": "Core/Toolbar",
+      "name": "Composition: Table Toolbar",
+      "state": "before",
+      "file": "08-core-toolbar-table-toolbar-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--table-toolbar&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 251
+        },
+        "root": {
+          "width": 1408,
+          "height": 219
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Table filters",
+            "rect": {
+              "x": 44,
+              "y": 36,
+              "width": 676,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 9,
+      "id": "core-toolbar--page-header",
+      "title": "Core/Toolbar",
+      "name": "Composition: Page Header",
+      "state": "before",
+      "file": "09-core-toolbar-page-header-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--page-header&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 161
+        },
+        "root": {
+          "width": 1408,
+          "height": 129
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Page navigation",
+            "rect": {
+              "x": 44,
+              "y": 40,
+              "width": 1352,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 10,
+      "id": "core-toolbar--bulk-actions",
+      "title": "Core/Toolbar",
+      "name": "Composition: Bulk Selection",
+      "state": "before",
+      "file": "10-core-toolbar-bulk-actions-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--bulk-actions&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 100
+        },
+        "root": {
+          "width": 1408,
+          "height": 68
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Bulk actions",
+            "rect": {
+              "x": 44,
+              "y": 36,
+              "width": 1352,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 11,
+      "id": "core-toolbar--stacked-toolbars",
+      "title": "Core/Toolbar",
+      "name": "Composition: Stacked Toolbars",
+      "state": "before",
+      "file": "11-core-toolbar-stacked-toolbars-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--stacked-toolbars&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 185
+        },
+        "root": {
+          "width": 1408,
+          "height": 153
+        },
+        "toolbarCount": 2,
+        "toolbars": [
+          {
+            "label": "Primary actions",
+            "rect": {
+              "x": 44,
+              "y": 36,
+              "width": 676,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Filters",
+            "rect": {
+              "x": 44,
+              "y": 73,
+              "width": 676,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 12,
+      "id": "core-toolbar--inside-layout",
+      "title": "Core/Toolbar",
+      "name": "Composition: Inside Layout",
+      "state": "before",
+      "file": "12-core-toolbar-inside-layout-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--inside-layout&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 364
+        },
+        "root": {
+          "width": 1408,
+          "height": 332
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "App toolbar",
+            "rect": {
+              "x": 45,
+              "y": 41,
+              "width": 1350,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 13,
+      "id": "core-toolbar--with-tab-navigation",
+      "title": "Core/Toolbar",
+      "name": "Composition: Tab Navigation",
+      "state": "before",
+      "file": "13-core-toolbar-with-tab-navigation-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--with-tab-navigation&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 395
+        },
+        "root": {
+          "width": 1408,
+          "height": 363
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Tab navigation (sm)",
+            "rect": {
+              "x": 44,
+              "y": 36,
+              "width": 1352,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Tab navigation (md)",
+            "rect": {
+              "x": 44,
+              "y": 149,
+              "width": 1352,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Tab navigation (lg)",
+            "rect": {
+              "x": 44,
+              "y": 270,
+              "width": 1352,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 14,
+      "id": "core-toolbar--with-center-tab-navigation",
+      "title": "Core/Toolbar",
+      "name": "Composition: Center Tab Navigation",
+      "state": "before",
+      "file": "14-core-toolbar-with-center-tab-navigation-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbar--with-center-tab-navigation&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 161
+        },
+        "root": {
+          "width": 1408,
+          "height": 129
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Center tab navigation",
+            "rect": {
+              "x": 44,
+              "y": 40,
+              "width": 1352,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 15,
+      "id": "core-toolbaredgecompensation--ghost-buttons-both-edges",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Ghost buttons: start + end",
+      "state": "before",
+      "file": "15-core-toolbaredgecompensation-ghost-buttons-both-edges-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--ghost-buttons-both-edges&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 733
+        },
+        "root": {
+          "width": 1408,
+          "height": 701
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Ghost buttons sm",
+            "rect": {
+              "x": 44,
+              "y": 62,
+              "width": 576,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Ghost buttons md",
+            "rect": {
+              "x": 44,
+              "y": 285,
+              "width": 576,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Ghost buttons lg",
+            "rect": {
+              "x": 44,
+              "y": 516,
+              "width": 576,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 16,
+      "id": "core-toolbaredgecompensation--solid-buttons-both-edges",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Solid buttons: start + end",
+      "state": "before",
+      "file": "16-core-toolbaredgecompensation-solid-buttons-both-edges-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--solid-buttons-both-edges&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 733
+        },
+        "root": {
+          "width": 1408,
+          "height": 701
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Solid buttons sm",
+            "rect": {
+              "x": 44,
+              "y": 62,
+              "width": 576,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Solid buttons md",
+            "rect": {
+              "x": 44,
+              "y": 285,
+              "width": 576,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Solid buttons lg",
+            "rect": {
+              "x": 44,
+              "y": 516,
+              "width": 576,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 17,
+      "id": "core-toolbaredgecompensation--ghost-start-solid-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Mixed: ghost start, solid end",
+      "state": "before",
+      "file": "17-core-toolbaredgecompensation-ghost-start-solid-end-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--ghost-start-solid-end&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 733
+        },
+        "root": {
+          "width": 1408,
+          "height": 701
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Mixed sm",
+            "rect": {
+              "x": 44,
+              "y": 62,
+              "width": 576,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Mixed md",
+            "rect": {
+              "x": 44,
+              "y": 285,
+              "width": 576,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Mixed lg",
+            "rect": {
+              "x": 44,
+              "y": 516,
+              "width": 576,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 18,
+      "id": "core-toolbaredgecompensation--solid-start-ghost-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Mixed: solid start, ghost end",
+      "state": "before",
+      "file": "18-core-toolbaredgecompensation-solid-start-ghost-end-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--solid-start-ghost-end&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 733
+        },
+        "root": {
+          "width": 1408,
+          "height": 701
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Mixed sm",
+            "rect": {
+              "x": 44,
+              "y": 62,
+              "width": 576,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Mixed md",
+            "rect": {
+              "x": 44,
+              "y": 285,
+              "width": 576,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Mixed lg",
+            "rect": {
+              "x": 44,
+              "y": 516,
+              "width": 576,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 19,
+      "id": "core-toolbaredgecompensation--heading-start-ghost-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Heading start + ghost end",
+      "state": "before",
+      "file": "19-core-toolbaredgecompensation-heading-start-ghost-end-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--heading-start-ghost-end&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 733
+        },
+        "root": {
+          "width": 1408,
+          "height": 701
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Heading sm",
+            "rect": {
+              "x": 44,
+              "y": 62,
+              "width": 576,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Heading md",
+            "rect": {
+              "x": 44,
+              "y": 285,
+              "width": 576,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Heading lg",
+            "rect": {
+              "x": 44,
+              "y": 516,
+              "width": 576,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 20,
+      "id": "core-toolbaredgecompensation--text-start-ghost-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Text start + ghost end",
+      "state": "before",
+      "file": "20-core-toolbaredgecompensation-text-start-ghost-end-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--text-start-ghost-end&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 253
+        },
+        "root": {
+          "width": 1408,
+          "height": 221
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Text start",
+            "rect": {
+              "x": 44,
+              "y": 40,
+              "width": 576,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 21,
+      "id": "core-toolbaredgecompensation--heading-start-solid-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Heading start + solid end",
+      "state": "before",
+      "file": "21-core-toolbaredgecompensation-heading-start-solid-end-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--heading-start-solid-end&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 253
+        },
+        "root": {
+          "width": 1408,
+          "height": 221
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Heading solid",
+            "rect": {
+              "x": 44,
+              "y": 40,
+              "width": 576,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 22,
+      "id": "core-toolbaredgecompensation--layout-no-content-width",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: no contentWidth, ghost buttons",
+      "state": "before",
+      "file": "22-core-toolbaredgecompensation-layout-no-content-width-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--layout-no-content-width&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "App header",
+            "rect": {
+              "x": 45,
+              "y": 41,
+              "width": 1350,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 23,
+      "id": "core-toolbaredgecompensation--layout-no-content-width-solid",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: no contentWidth, solid buttons",
+      "state": "before",
+      "file": "23-core-toolbaredgecompensation-layout-no-content-width-solid-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--layout-no-content-width-solid&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "App header",
+            "rect": {
+              "x": 45,
+              "y": 41,
+              "width": 1350,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 24,
+      "id": "core-toolbaredgecompensation--layout-with-content-width",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=640, ghost buttons",
+      "state": "before",
+      "file": "24-core-toolbaredgecompensation-layout-with-content-width-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--layout-with-content-width&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Page header",
+            "rect": {
+              "x": 412,
+              "y": 41,
+              "width": 616,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 25,
+      "id": "core-toolbaredgecompensation--layout-with-content-width-solid",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=640, solid buttons",
+      "state": "before",
+      "file": "25-core-toolbaredgecompensation-layout-with-content-width-solid-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--layout-with-content-width-solid&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Page header",
+            "rect": {
+              "x": 412,
+              "y": 41,
+              "width": 616,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 26,
+      "id": "core-toolbaredgecompensation--layout-with-content-width-mixed",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=640, mixed",
+      "state": "before",
+      "file": "26-core-toolbaredgecompensation-layout-with-content-width-mixed-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--layout-with-content-width-mixed&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Page header",
+            "rect": {
+              "x": 412,
+              "y": 41,
+              "width": 616,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 27,
+      "id": "core-toolbaredgecompensation--layout-content-width-960",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=960, ghost buttons",
+      "state": "before",
+      "file": "27-core-toolbaredgecompensation-layout-content-width-960-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--layout-content-width-960&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Dashboard header",
+            "rect": {
+              "x": 252,
+              "y": 41,
+              "width": 936,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 28,
+      "id": "core-toolbaredgecompensation--layout-with-padding",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: padding=4, ghost buttons",
+      "state": "before",
+      "file": "28-core-toolbaredgecompensation-layout-with-padding-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--layout-with-padding&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Padded layout header",
+            "rect": {
+              "x": 45,
+              "y": 41,
+              "width": 1350,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 29,
+      "id": "core-toolbaredgecompensation--layout-with-padding-and-content-width",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: padding=4 + contentWidth=640",
+      "state": "before",
+      "file": "29-core-toolbaredgecompensation-layout-with-padding-and-content-width-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--layout-with-padding-and-content-width&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Padded constrained header",
+            "rect": {
+              "x": 412,
+              "y": 41,
+              "width": 616,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 30,
+      "id": "core-toolbaredgecompensation--layout-header-default-padding",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: header default padding + toolbar",
+      "state": "before",
+      "file": "30-core-toolbaredgecompensation-layout-header-default-padding-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--layout-header-default-padding&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Double padded?",
+            "rect": {
+              "x": 45,
+              "y": 41,
+              "width": 1350,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 31,
+      "id": "core-toolbaredgecompensation--side-by-side-comparison",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Comparison: ghost vs solid alignment",
+      "state": "before",
+      "file": "31-core-toolbaredgecompensation-side-by-side-comparison-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--side-by-side-comparison&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 279
+        },
+        "root": {
+          "width": 1408,
+          "height": 247
+        },
+        "toolbarCount": 2,
+        "toolbars": [
+          {
+            "label": "Ghost",
+            "rect": {
+              "x": 44,
+              "y": 66,
+              "width": 652,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Solid",
+            "rect": {
+              "x": 744,
+              "y": 66,
+              "width": 652,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 32,
+      "id": "core-toolbaredgecompensation--three-slot-ghost-edges",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Three-slot: ghost edges + center heading",
+      "state": "before",
+      "file": "32-core-toolbaredgecompensation-three-slot-ghost-edges-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--three-slot-ghost-edges&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 613
+        },
+        "root": {
+          "width": 1408,
+          "height": 581
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Three slot sm",
+            "rect": {
+              "x": 44,
+              "y": 62,
+              "width": 676,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Three slot md",
+            "rect": {
+              "x": 44,
+              "y": 245,
+              "width": 676,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Three slot lg",
+            "rect": {
+              "x": 44,
+              "y": 436,
+              "width": 676,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 33,
+      "id": "core-toolbaredgecompensation--three-slot-mixed",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Three-slot: ghost start, solid end",
+      "state": "before",
+      "file": "33-core-toolbaredgecompensation-three-slot-mixed-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--three-slot-mixed&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 213
+        },
+        "root": {
+          "width": 1408,
+          "height": 181
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Mixed three slot",
+            "rect": {
+              "x": 44,
+              "y": 40,
+              "width": 676,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 34,
+      "id": "core-toolbaredgecompensation--stacked-variants",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Stress: stacked toolbar variants",
+      "state": "before",
+      "file": "34-core-toolbaredgecompensation-stacked-variants-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--stacked-variants&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 284
+        },
+        "root": {
+          "width": 1408,
+          "height": 252
+        },
+        "toolbarCount": 4,
+        "toolbars": [
+          {
+            "label": "Ghost both",
+            "rect": {
+              "x": 44,
+              "y": 36,
+              "width": 676,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Solid both",
+            "rect": {
+              "x": 44,
+              "y": 73,
+              "width": 676,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Ghost start solid end",
+            "rect": {
+              "x": 44,
+              "y": 110,
+              "width": 676,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Text start ghost end",
+            "rect": {
+              "x": 44,
+              "y": 147,
+              "width": 676,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 35,
+      "id": "core-toolbaredgecompensation--card-layout-content-width-toolbar",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Card > Layout(contentWidth) > Toolbar header",
+      "state": "before",
+      "file": "35-core-toolbaredgecompensation-card-layout-content-width-toolbar-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--card-layout-content-width-toolbar&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 881
+        },
+        "root": {
+          "width": 1408,
+          "height": 849
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Card layout header",
+            "rect": {
+              "x": 174,
+              "y": 66,
+              "width": 616,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Card layout header",
+            "rect": {
+              "x": 174,
+              "y": 345,
+              "width": 616,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Card layout header",
+            "rect": {
+              "x": 174,
+              "y": 624,
+              "width": 616,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": []
+          }
+        ]
+      }
+    },
+    {
+      "index": 36,
+      "id": "core-toolbaredgecompensation--card-small-padding-layout-toolbar",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Card(12px) > Layout > Toolbar + body",
+      "state": "before",
+      "file": "36-core-toolbaredgecompensation-card-small-padding-layout-toolbar-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--card-small-padding-layout-toolbar&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 241
+        },
+        "root": {
+          "width": 1408,
+          "height": 209
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Card header",
+            "rect": {
+              "x": 44,
+              "y": 40,
+              "width": 676,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 37,
+      "id": "core-toolbaredgecompensation--with-tabs",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Tabs in toolbar (all sizes)",
+      "state": "before",
+      "file": "37-core-toolbaredgecompensation-with-tabs-before.png",
+      "url": "http://127.0.0.1:6007/iframe.html?id=core-toolbaredgecompensation--with-tabs&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 613
+        },
+        "root": {
+          "width": 1408,
+          "height": 581
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Tab toolbar sm",
+            "rect": {
+              "x": 44,
+              "y": 62,
+              "width": 676,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Tab toolbar md",
+            "rect": {
+              "x": 44,
+              "y": 245,
+              "width": 676,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Tab toolbar lg",
+            "rect": {
+              "x": 44,
+              "y": 436,
+              "width": 676,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "after": [
+    {
+      "index": 1,
+      "id": "core-toolbar--default",
+      "title": "Core/Toolbar",
+      "name": "Default",
+      "state": "after",
+      "file": "01-core-toolbar-default-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--default&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 (File not found)"
+      ],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 112
+        },
+        "root": {
+          "width": 1408,
+          "height": 80
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Actions",
+            "rect": {
+              "x": 40,
+              "y": 40,
+              "width": 1360,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "id": "core-toolbar--three-slot",
+      "title": "Core/Toolbar",
+      "name": "Three Slot",
+      "state": "after",
+      "file": "02-core-toolbar-three-slot-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--three-slot&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 112
+        },
+        "root": {
+          "width": 1408,
+          "height": 80
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Document toolbar",
+            "rect": {
+              "x": 40,
+              "y": 40,
+              "width": 1360,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 3,
+      "id": "core-toolbar--start-only",
+      "title": "Core/Toolbar",
+      "name": "Start Only",
+      "state": "after",
+      "file": "03-core-toolbar-start-only-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--start-only&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 100
+        },
+        "root": {
+          "width": 1408,
+          "height": 68
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Bulk actions",
+            "rect": {
+              "x": 36,
+              "y": 36,
+              "width": 1368,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 4,
+      "id": "core-toolbar--end-only",
+      "title": "Core/Toolbar",
+      "name": "End Only",
+      "state": "after",
+      "file": "04-core-toolbar-end-only-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--end-only&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 112
+        },
+        "root": {
+          "width": 1408,
+          "height": 80
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Page actions",
+            "rect": {
+              "x": 40,
+              "y": 40,
+              "width": 1360,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 5,
+      "id": "core-toolbar--compact",
+      "title": "Core/Toolbar",
+      "name": "Compact",
+      "state": "after",
+      "file": "05-core-toolbar-compact-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--compact&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 100
+        },
+        "root": {
+          "width": 1408,
+          "height": 68
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Compact toolbar",
+            "rect": {
+              "x": 36,
+              "y": 36,
+              "width": 1368,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 6,
+      "id": "core-toolbar--wash-variant",
+      "title": "Core/Toolbar",
+      "name": "Wash Variant",
+      "state": "after",
+      "file": "06-core-toolbar-wash-variant-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--wash-variant&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 112
+        },
+        "root": {
+          "width": 1408,
+          "height": 80
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Highlighted toolbar",
+            "rect": {
+              "x": 40,
+              "y": 40,
+              "width": 1360,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 7,
+      "id": "core-toolbar--inside-card",
+      "title": "Core/Toolbar",
+      "name": "Composition: Card Header",
+      "state": "after",
+      "file": "07-core-toolbar-inside-card-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--inside-card&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 149
+        },
+        "root": {
+          "width": 1408,
+          "height": 117
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "User list actions",
+            "rect": {
+              "x": 36,
+              "y": 36,
+              "width": 592,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 8,
+      "id": "core-toolbar--table-toolbar",
+      "title": "Core/Toolbar",
+      "name": "Composition: Table Toolbar",
+      "state": "after",
+      "file": "08-core-toolbar-table-toolbar-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--table-toolbar&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 251
+        },
+        "root": {
+          "width": 1408,
+          "height": 219
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Table filters",
+            "rect": {
+              "x": 36,
+              "y": 36,
+              "width": 692,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 9,
+      "id": "core-toolbar--page-header",
+      "title": "Core/Toolbar",
+      "name": "Composition: Page Header",
+      "state": "after",
+      "file": "09-core-toolbar-page-header-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--page-header&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 161
+        },
+        "root": {
+          "width": 1408,
+          "height": 129
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Page navigation",
+            "rect": {
+              "x": 40,
+              "y": 40,
+              "width": 1360,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 10,
+      "id": "core-toolbar--bulk-actions",
+      "title": "Core/Toolbar",
+      "name": "Composition: Bulk Selection",
+      "state": "after",
+      "file": "10-core-toolbar-bulk-actions-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--bulk-actions&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 100
+        },
+        "root": {
+          "width": 1408,
+          "height": 68
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Bulk actions",
+            "rect": {
+              "x": 36,
+              "y": 36,
+              "width": 1368,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 11,
+      "id": "core-toolbar--stacked-toolbars",
+      "title": "Core/Toolbar",
+      "name": "Composition: Stacked Toolbars",
+      "state": "after",
+      "file": "11-core-toolbar-stacked-toolbars-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--stacked-toolbars&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 185
+        },
+        "root": {
+          "width": 1408,
+          "height": 153
+        },
+        "toolbarCount": 2,
+        "toolbars": [
+          {
+            "label": "Primary actions",
+            "rect": {
+              "x": 36,
+              "y": 36,
+              "width": 692,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Filters",
+            "rect": {
+              "x": 36,
+              "y": 73,
+              "width": 692,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 12,
+      "id": "core-toolbar--inside-layout",
+      "title": "Core/Toolbar",
+      "name": "Composition: Inside Layout",
+      "state": "after",
+      "file": "12-core-toolbar-inside-layout-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--inside-layout&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 364
+        },
+        "root": {
+          "width": 1408,
+          "height": 332
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "App toolbar",
+            "rect": {
+              "x": 41,
+              "y": 41,
+              "width": 1358,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 13,
+      "id": "core-toolbar--with-tab-navigation",
+      "title": "Core/Toolbar",
+      "name": "Composition: Tab Navigation",
+      "state": "after",
+      "file": "13-core-toolbar-with-tab-navigation-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--with-tab-navigation&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 395
+        },
+        "root": {
+          "width": 1408,
+          "height": 363
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Tab navigation (sm)",
+            "rect": {
+              "x": 36,
+              "y": 36,
+              "width": 1368,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Tab navigation (md)",
+            "rect": {
+              "x": 40,
+              "y": 149,
+              "width": 1360,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Tab navigation (lg)",
+            "rect": {
+              "x": 40,
+              "y": 270,
+              "width": 1360,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 14,
+      "id": "core-toolbar--with-center-tab-navigation",
+      "title": "Core/Toolbar",
+      "name": "Composition: Center Tab Navigation",
+      "state": "after",
+      "file": "14-core-toolbar-with-center-tab-navigation-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbar--with-center-tab-navigation&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 161
+        },
+        "root": {
+          "width": 1408,
+          "height": 129
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Center tab navigation",
+            "rect": {
+              "x": 40,
+              "y": 40,
+              "width": 1360,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 15,
+      "id": "core-toolbaredgecompensation--ghost-buttons-both-edges",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Ghost buttons: start + end",
+      "state": "after",
+      "file": "15-core-toolbaredgecompensation-ghost-buttons-both-edges-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--ghost-buttons-both-edges&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 733
+        },
+        "root": {
+          "width": 1408,
+          "height": 701
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Ghost buttons sm",
+            "rect": {
+              "x": 36,
+              "y": 62,
+              "width": 592,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Ghost buttons md",
+            "rect": {
+              "x": 40,
+              "y": 285,
+              "width": 584,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Ghost buttons lg",
+            "rect": {
+              "x": 40,
+              "y": 516,
+              "width": 584,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 16,
+      "id": "core-toolbaredgecompensation--solid-buttons-both-edges",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Solid buttons: start + end",
+      "state": "after",
+      "file": "16-core-toolbaredgecompensation-solid-buttons-both-edges-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--solid-buttons-both-edges&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 733
+        },
+        "root": {
+          "width": 1408,
+          "height": 701
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Solid buttons sm",
+            "rect": {
+              "x": 36,
+              "y": 62,
+              "width": 592,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Solid buttons md",
+            "rect": {
+              "x": 40,
+              "y": 285,
+              "width": 584,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Solid buttons lg",
+            "rect": {
+              "x": 40,
+              "y": 516,
+              "width": 584,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 17,
+      "id": "core-toolbaredgecompensation--ghost-start-solid-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Mixed: ghost start, solid end",
+      "state": "after",
+      "file": "17-core-toolbaredgecompensation-ghost-start-solid-end-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--ghost-start-solid-end&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 733
+        },
+        "root": {
+          "width": 1408,
+          "height": 701
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Mixed sm",
+            "rect": {
+              "x": 36,
+              "y": 62,
+              "width": 592,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Mixed md",
+            "rect": {
+              "x": 40,
+              "y": 285,
+              "width": 584,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Mixed lg",
+            "rect": {
+              "x": 40,
+              "y": 516,
+              "width": 584,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 18,
+      "id": "core-toolbaredgecompensation--solid-start-ghost-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Mixed: solid start, ghost end",
+      "state": "after",
+      "file": "18-core-toolbaredgecompensation-solid-start-ghost-end-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--solid-start-ghost-end&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 733
+        },
+        "root": {
+          "width": 1408,
+          "height": 701
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Mixed sm",
+            "rect": {
+              "x": 36,
+              "y": 62,
+              "width": 592,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Mixed md",
+            "rect": {
+              "x": 40,
+              "y": 285,
+              "width": 584,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Mixed lg",
+            "rect": {
+              "x": 40,
+              "y": 516,
+              "width": 584,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 19,
+      "id": "core-toolbaredgecompensation--heading-start-ghost-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Heading start + ghost end",
+      "state": "after",
+      "file": "19-core-toolbaredgecompensation-heading-start-ghost-end-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--heading-start-ghost-end&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 733
+        },
+        "root": {
+          "width": 1408,
+          "height": 701
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Heading sm",
+            "rect": {
+              "x": 36,
+              "y": 62,
+              "width": 592,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Heading md",
+            "rect": {
+              "x": 40,
+              "y": 285,
+              "width": 584,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Heading lg",
+            "rect": {
+              "x": 40,
+              "y": 516,
+              "width": 584,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 20,
+      "id": "core-toolbaredgecompensation--text-start-ghost-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Text start + ghost end",
+      "state": "after",
+      "file": "20-core-toolbaredgecompensation-text-start-ghost-end-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--text-start-ghost-end&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 253
+        },
+        "root": {
+          "width": 1408,
+          "height": 221
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Text start",
+            "rect": {
+              "x": 40,
+              "y": 40,
+              "width": 584,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 21,
+      "id": "core-toolbaredgecompensation--heading-start-solid-end",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Heading start + solid end",
+      "state": "after",
+      "file": "21-core-toolbaredgecompensation-heading-start-solid-end-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--heading-start-solid-end&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 253
+        },
+        "root": {
+          "width": 1408,
+          "height": 221
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Heading solid",
+            "rect": {
+              "x": 40,
+              "y": 40,
+              "width": 584,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 22,
+      "id": "core-toolbaredgecompensation--layout-no-content-width",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: no contentWidth, ghost buttons",
+      "state": "after",
+      "file": "22-core-toolbaredgecompensation-layout-no-content-width-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--layout-no-content-width&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "App header",
+            "rect": {
+              "x": 41,
+              "y": 41,
+              "width": 1358,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 23,
+      "id": "core-toolbaredgecompensation--layout-no-content-width-solid",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: no contentWidth, solid buttons",
+      "state": "after",
+      "file": "23-core-toolbaredgecompensation-layout-no-content-width-solid-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--layout-no-content-width-solid&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "App header",
+            "rect": {
+              "x": 41,
+              "y": 41,
+              "width": 1358,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 24,
+      "id": "core-toolbaredgecompensation--layout-with-content-width",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=640, ghost buttons",
+      "state": "after",
+      "file": "24-core-toolbaredgecompensation-layout-with-content-width-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--layout-with-content-width&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Page header",
+            "rect": {
+              "x": 408,
+              "y": 41,
+              "width": 624,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 25,
+      "id": "core-toolbaredgecompensation--layout-with-content-width-solid",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=640, solid buttons",
+      "state": "after",
+      "file": "25-core-toolbaredgecompensation-layout-with-content-width-solid-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--layout-with-content-width-solid&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Page header",
+            "rect": {
+              "x": 408,
+              "y": 41,
+              "width": 624,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 26,
+      "id": "core-toolbaredgecompensation--layout-with-content-width-mixed",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=640, mixed",
+      "state": "after",
+      "file": "26-core-toolbaredgecompensation-layout-with-content-width-mixed-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--layout-with-content-width-mixed&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Page header",
+            "rect": {
+              "x": 408,
+              "y": 41,
+              "width": 624,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 27,
+      "id": "core-toolbaredgecompensation--layout-content-width-960",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: contentWidth=960, ghost buttons",
+      "state": "after",
+      "file": "27-core-toolbaredgecompensation-layout-content-width-960-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--layout-content-width-960&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Dashboard header",
+            "rect": {
+              "x": 248,
+              "y": 41,
+              "width": 944,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 28,
+      "id": "core-toolbaredgecompensation--layout-with-padding",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: padding=4, ghost buttons",
+      "state": "after",
+      "file": "28-core-toolbaredgecompensation-layout-with-padding-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--layout-with-padding&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Padded layout header",
+            "rect": {
+              "x": 41,
+              "y": 41,
+              "width": 1358,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 29,
+      "id": "core-toolbaredgecompensation--layout-with-padding-and-content-width",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: padding=4 + contentWidth=640",
+      "state": "after",
+      "file": "29-core-toolbaredgecompensation-layout-with-padding-and-content-width-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--layout-with-padding-and-content-width&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Padded constrained header",
+            "rect": {
+              "x": 408,
+              "y": 41,
+              "width": 624,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 30,
+      "id": "core-toolbaredgecompensation--layout-header-default-padding",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Layout: header default padding + toolbar",
+      "state": "after",
+      "file": "30-core-toolbaredgecompensation-layout-header-default-padding-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--layout-header-default-padding&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 464
+        },
+        "root": {
+          "width": 1408,
+          "height": 432
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Double padded?",
+            "rect": {
+              "x": 41,
+              "y": 41,
+              "width": 1358,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 31,
+      "id": "core-toolbaredgecompensation--side-by-side-comparison",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Comparison: ghost vs solid alignment",
+      "state": "after",
+      "file": "31-core-toolbaredgecompensation-side-by-side-comparison-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--side-by-side-comparison&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 279
+        },
+        "root": {
+          "width": 1408,
+          "height": 247
+        },
+        "toolbarCount": 2,
+        "toolbars": [
+          {
+            "label": "Ghost",
+            "rect": {
+              "x": 40,
+              "y": 66,
+              "width": 660,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Solid",
+            "rect": {
+              "x": 740,
+              "y": 66,
+              "width": 660,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 32,
+      "id": "core-toolbaredgecompensation--three-slot-ghost-edges",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Three-slot: ghost edges + center heading",
+      "state": "after",
+      "file": "32-core-toolbaredgecompensation-three-slot-ghost-edges-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--three-slot-ghost-edges&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 613
+        },
+        "root": {
+          "width": 1408,
+          "height": 581
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Three slot sm",
+            "rect": {
+              "x": 36,
+              "y": 62,
+              "width": 692,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Three slot md",
+            "rect": {
+              "x": 40,
+              "y": 245,
+              "width": 684,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Three slot lg",
+            "rect": {
+              "x": 40,
+              "y": 436,
+              "width": 684,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 33,
+      "id": "core-toolbaredgecompensation--three-slot-mixed",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Three-slot: ghost start, solid end",
+      "state": "after",
+      "file": "33-core-toolbaredgecompensation-three-slot-mixed-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--three-slot-mixed&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 213
+        },
+        "root": {
+          "width": 1408,
+          "height": 181
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Mixed three slot",
+            "rect": {
+              "x": 40,
+              "y": 40,
+              "width": 684,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 34,
+      "id": "core-toolbaredgecompensation--stacked-variants",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Stress: stacked toolbar variants",
+      "state": "after",
+      "file": "34-core-toolbaredgecompensation-stacked-variants-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--stacked-variants&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 284
+        },
+        "root": {
+          "width": 1408,
+          "height": 252
+        },
+        "toolbarCount": 4,
+        "toolbars": [
+          {
+            "label": "Ghost both",
+            "rect": {
+              "x": 36,
+              "y": 36,
+              "width": 692,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Solid both",
+            "rect": {
+              "x": 36,
+              "y": 73,
+              "width": 692,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Ghost start solid end",
+            "rect": {
+              "x": 36,
+              "y": 110,
+              "width": 692,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Text start ghost end",
+            "rect": {
+              "x": 36,
+              "y": 147,
+              "width": 692,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 35,
+      "id": "core-toolbaredgecompensation--card-layout-content-width-toolbar",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Card > Layout(contentWidth) > Toolbar header",
+      "state": "after",
+      "file": "35-core-toolbaredgecompensation-card-layout-content-width-toolbar-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--card-layout-content-width-toolbar&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 881
+        },
+        "root": {
+          "width": 1408,
+          "height": 849
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Card layout header",
+            "rect": {
+              "x": 170,
+              "y": 66,
+              "width": 624,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Card layout header",
+            "rect": {
+              "x": 170,
+              "y": 345,
+              "width": 624,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Card layout header",
+            "rect": {
+              "x": 170,
+              "y": 624,
+              "width": 624,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": []
+          }
+        ]
+      }
+    },
+    {
+      "index": 36,
+      "id": "core-toolbaredgecompensation--card-small-padding-layout-toolbar",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Card(12px) > Layout > Toolbar + body",
+      "state": "after",
+      "file": "36-core-toolbaredgecompensation-card-small-padding-layout-toolbar-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--card-small-padding-layout-toolbar&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 241
+        },
+        "root": {
+          "width": 1408,
+          "height": 209
+        },
+        "toolbarCount": 1,
+        "toolbars": [
+          {
+            "label": "Card header",
+            "rect": {
+              "x": 40,
+              "y": 40,
+              "width": 684,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "index": 37,
+      "id": "core-toolbaredgecompensation--with-tabs",
+      "title": "Core/ToolbarEdgeCompensation",
+      "name": "Tabs in toolbar (all sizes)",
+      "state": "after",
+      "file": "37-core-toolbaredgecompensation-with-tabs-after.png",
+      "url": "http://127.0.0.1:6006/iframe.html?id=core-toolbaredgecompensation--with-tabs&viewMode=story&globals=astryxTheme%3Aneutral%3BcolorMode%3Alight%3Bdirection%3Altr",
+      "consoleErrors": [],
+      "details": {
+        "page": {
+          "width": 1440,
+          "height": 613
+        },
+        "root": {
+          "width": 1408,
+          "height": 581
+        },
+        "toolbarCount": 3,
+        "toolbars": [
+          {
+            "label": "Tab toolbar sm",
+            "rect": {
+              "x": 36,
+              "y": 62,
+              "width": 692,
+              "height": 28
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "sm"
+            ]
+          },
+          {
+            "label": "Tab toolbar md",
+            "rect": {
+              "x": 40,
+              "y": 245,
+              "width": 684,
+              "height": 32
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "md"
+            ]
+          },
+          {
+            "label": "Tab toolbar lg",
+            "rect": {
+              "x": 40,
+              "y": 436,
+              "width": 684,
+              "height": 36
+            },
+            "padding": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            },
+            "childSizes": [
+              "lg"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
